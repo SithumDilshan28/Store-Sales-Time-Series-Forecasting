@@ -1,0 +1,20 @@
+Store Number: 1, Product Family: AUTOMOTIVE, Products on Promotion: 0, Month: 1, Year: 2013, Day of the Week: Monday, City: Quito, State: Pichincha, Predicted Sales: 1.5
+Store Number: 1, Product Family: AUTOMOTIVE, Products on Promotion: 0, Month: 1, Year: 2013, Day of the Week: Wednesday, City: Quito, State: Pichincha, Predicted Sales: 3.0
+Store Number: 1, Product Family: BOOKS, Products on Promotion: 0, Month: 1, Year: 2017, Day of the Week: Wednesday, City: Quito, State: Pichincha, Predicted Sales: 1.5
+Store Number: 1, Product Family: AUTOMOTIVE, Products on Promotion: 0, Month: 1, Year: 2013, Day of the Week: Monday, City: Quito, State: Pichincha, Predicted Sales: 1.5
+Store Number: 2, Product Family: BEVERAGES, Products on Promotion: 3, Month: 6, Year: 2017, Day of the Week: Sunday, City: Quito, State: Pichincha, Predicted Sales: 0.0
+Store Number: 2, Product Family: BEVERAGES, Products on Promotion: 3, Month: 6, Year: 2017, Day of the Week: Wednesday, City: Quito, State: Pichincha, Predicted Sales: 0.0
+Store Number: 1, Product Family: BEVERAGES, Products on Promotion: 3, Month: 6, Year: 2017, Day of the Week: Wednesday, City: Quito, State: Pichincha, Predicted Sales: 376.0
+Store Number: 4, Product Family: BEVERAGES, Products on Promotion: 3, Month: 6, Year: 2017, Day of the Week: Wednesday, City: Quito, State: Pichincha, Predicted Sales: 0.0
+Store Number: 6, Product Family: BEVERAGES, Products on Promotion: 3, Month: 6, Year: 2017, Day of the Week: Wednesday, City: Quito, State: Pichincha, Predicted Sales: 0.0
+Store Number: 6, Product Family: BABY CARE, Products on Promotion: 3, Month: 6, Year: 2017, Day of the Week: Wednesday, City: Quito, State: Pichincha, Predicted Sales: 0.0
+Store Number: 6, Product Family: BABY CARE, Products on Promotion: 3, Month: 5, Year: 2015, Day of the Week: Wednesday, City: Quito, State: Pichincha, Predicted Sales: 0.0
+Store Number: 9, Product Family: BABY CARE, Products on Promotion: 3, Month: 5, Year: 2015, Day of the Week: Wednesday, City: Quito, State: Pichincha, Predicted Sales: 0.0
+Store Number: 1, Product Family: BABY CARE, Products on Promotion: 3, Month: 5, Year: 2015, Day of the Week: Wednesday, City: Quito, State: Pichincha, Predicted Sales: 0.0
+Store Number: 1, Product Family: BOOKS, Products on Promotion: 1, Month: 5, Year: 2015, Day of the Week: Wednesday, City: Quito, State: Pichincha, Predicted Sales: 0.0
+Store Number: 1, Product Family: BOOKS, Products on Promotion: 1, Month: 5, Year: 2015, Day of the Week: Tuesday, City: Quito, State: Pichincha, Predicted Sales: 0.0
+Store Number: 3, Product Family: BEAUTY, Products on Promotion: 4, Month: 3, Year: 2014, Day of the Week: Wednesday, City: Quito, State: Pichincha, Predicted Sales: 6.0
+Store Number: 3, Product Family: BEAUTY, Products on Promotion: 4, Month: 3, Year: 2018, Day of the Week: Saturday, City: Quito, State: Pichincha, Predicted Sales: 11.0
+Store Number: 1, Product Family: AUTOMOTIVE, Products on Promotion: 0, Month: 1, Year: 2013, Day of the Week: Monday, City: Quito, State: Pichincha, Predicted Sales: 1.5
+Store Number: 1, Product Family: AUTOMOTIVE, Products on Promotion: 0, Month: 1, Year: 2013, Day of the Week: Monday, City: Quito, State: Pichincha, Predicted Sales: 1.5
+Store Number: 1, Product Family: AUTOMOTIVE, Products on Promotion: 0, Month: 1, Year: 2013, Day of the Week: Monday, City: Quito, State: Pichincha, Predicted Sales: 1.5
